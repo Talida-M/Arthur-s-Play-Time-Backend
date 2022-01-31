@@ -1,0 +1,126 @@
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\appsettings.Development.json
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\appsettings.json
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.exe
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.deps.json
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.runtimeconfig.json
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.runtimeconfig.dev.json
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ref\ProiectASP.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Humanizer.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.csproj.AssemblyReference.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.AssemblyInfoInputs.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.AssemblyInfo.cs
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.csproj.CoreCompileInputs.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.MvcApplicationPartsAssemblyInfo.cs
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.MvcApplicationPartsAssemblyInfo.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\staticwebassets\ProiectASP.StaticWebAssets.Manifest.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\staticwebassets\ProiectASP.StaticWebAssets.xml
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\scopedcss\bundle\ProiectASP.styles.css
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.RazorTargetAssemblyInfo.cache
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ref\ProiectASP.dll
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.pdb
+D:\Proiecte\Proiect DAW\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.genruntimeconfig.cache
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\appsettings.Development.json
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\appsettings.json
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.exe
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.deps.json
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.runtimeconfig.json
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.runtimeconfig.dev.json
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ref\ProiectASP.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\ProiectASP.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Humanizer.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\An II Sem I\ProiectASP\ProiectASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.csproj.AssemblyReference.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.GeneratedMSBuildEditorConfig.editorconfig
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.AssemblyInfoInputs.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.AssemblyInfo.cs
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.csproj.CoreCompileInputs.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.MvcApplicationPartsAssemblyInfo.cs
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.MvcApplicationPartsAssemblyInfo.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\staticwebassets\ProiectASP.StaticWebAssets.Manifest.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\staticwebassets\ProiectASP.StaticWebAssets.xml
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\scopedcss\bundle\ProiectASP.styles.css
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.RazorTargetAssemblyInfo.cache
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.dll
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ref\ProiectASP.dll
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.pdb
+D:\An II Sem I\ProiectASP\ProiectASP\obj\Debug\net5.0\ProiectASP.genruntimeconfig.cache
